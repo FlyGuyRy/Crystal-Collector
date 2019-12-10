@@ -1,4 +1,5 @@
-# Crystal-Collector
+# Crystal Collector
+
 LINK TO GAME!
 https://flyguyry.github.io/Crystal-Collector/
 
